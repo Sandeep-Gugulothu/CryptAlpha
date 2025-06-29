@@ -92,4 +92,3 @@ MIT License. See `LICENSE` for details.
 ## 👥 Contributors
 
 Team 67 – Zelta Automations  
-[Add names/emails or GitHub links here]
